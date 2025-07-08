@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/85e71b80-a71a-4622-a9a3-dd4be3570b29)
 ![image](https://github.com/user-attachments/assets/03b98eb7-231a-4ebb-8092-24ed4b3841de)
 
-*OBSERVATION: Home&Kitchen, Computer&Accessories and Electronic Products had the highest number of reviews, while Health&Personal Care had the least*
+*OBSERVATION: Home&Kitchen, Computer&Accessories and Electronic Products categories had the highest number of reviews, while Health&Personal Care had the least*
 
 
 # Question 4 : To Analyze The Average Highest Rating Per Product
@@ -53,12 +53,16 @@
 ![image](https://github.com/user-attachments/assets/97aa7aa5-2943-475f-899f-2974caf78800)
 ![image](https://github.com/user-attachments/assets/becd7fcf-81d3-421a-9a33-73cac86d0ac5)
 
+*OBSERVATION: Home&Kitchen, Computer&Accessories and Electronic Products categories had the highest number of reviews.
+
 
 # Question 7 : To Analyze The Various Products And Their Discount Percentages
 ![image](https://github.com/user-attachments/assets/774917c2-98e0-478c-987c-99dace4693b6)
 
 ![image](https://github.com/user-attachments/assets/005be624-877b-4da9-a9af-dcd4b08fefe2)
 ![image](https://github.com/user-attachments/assets/38036080-13fd-4d6f-bf47-e09b0263c8a0)
+
+*OBSERVATION: Electronics, Computer&Accessories and Home&Kitchen products had the highest discount percentages. The discounts offered on these products is directly proportional to the number of reviews received and the total sales made. It can therefore be deduced that high discounts drive increased sales*
 
 
 # Question 8 : To Analyze The Distribution of Product Rating
