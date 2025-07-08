@@ -9,11 +9,14 @@
 
 *OBSERVATION: Home Improvement Products received the highest discounts amounting to 58% of the selling price, while Toys&Games did not benefit from the discount sales*
 
+
 # Question 2 : To Analyze The Number of Product Per Category
 ![image](https://github.com/user-attachments/assets/80c78216-1c45-4ba6-bc6d-c0950c056e8d)
 
 ![image](https://github.com/user-attachments/assets/fb4d906b-90bd-4d5c-b5d2-37baf9a543ad)
 ![image](https://github.com/user-attachments/assets/9428dbc5-1bec-428c-9ff8-be63931eb0d1)
+
+*OBSERVATION: As at the time of the analysis, the Amazon Store had more Electronic products on sale. There may be a need to quickly reorder  products under the Health&Personal Care, Car&Motor Bike and Toys&Games categories as they had only one product left for sale, in order to prevent customer dissatisfaction*
 
 
 # Question 3 : To Analyze The Total Number of Reviews Per Category
@@ -21,6 +24,8 @@
 
 ![image](https://github.com/user-attachments/assets/85e71b80-a71a-4622-a9a3-dd4be3570b29)
 ![image](https://github.com/user-attachments/assets/03b98eb7-231a-4ebb-8092-24ed4b3841de)
+
+*OBSERVATION: 
 
 
 # Question 4 : To Analyze The Average Highest Rating Per Product
