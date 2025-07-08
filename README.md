@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/85e71b80-a71a-4622-a9a3-dd4be3570b29)
 ![image](https://github.com/user-attachments/assets/03b98eb7-231a-4ebb-8092-24ed4b3841de)
 
-*OBSERVATION: 
+*OBSERVATION: Home&Kitchen, Computer&Accessories and Electronic Products had the highest number of reviews, while Health&Personal Care had the least*
 
 
 # Question 4 : To Analyze The Average Highest Rating Per Product
