@@ -7,6 +7,7 @@
 ![image](https://github.com/user-attachments/assets/e24b69aa-dce0-4f70-b9c2-efc0f2e85210)
 ![image](https://github.com/user-attachments/assets/66f206aa-2dd8-4287-8df2-16fb5229c853)
 
+# *OBSERVATION: Home Improvement Products received the highest discounts amounting to 58% of the selling price, while Toys&Games did not benefit from the discount sales*
 
 # Question 2 : To Analyze The Number of Product Per Category
 ![image](https://github.com/user-attachments/assets/80c78216-1c45-4ba6-bc6d-c0950c056e8d)
