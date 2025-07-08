@@ -36,8 +36,10 @@
 
 ![image](https://github.com/user-attachments/assets/d967b083-997e-433f-a933-384c21f55b8f)
 
+*OBSERVATION: From the analysis, the Car&Motor Bike product has the highest average rating. It is no gainsaying, that for a product with one review, the singular customer who purchased this product was very satisfied*
 
-# Question 5 : To Analyze The Number of Products Per Category
+
+# Question 5 : To Analyze Average Actual Price vs The Discounted Price By Category
 ![image](https://github.com/user-attachments/assets/3da0dfe3-ff76-4348-8710-fce0018aec5b)
 
 ![image](https://github.com/user-attachments/assets/824ff020-f1ca-4824-bd19-f4ef54dd50c4)
