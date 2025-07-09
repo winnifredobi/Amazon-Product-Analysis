@@ -62,7 +62,7 @@
 ![image](https://github.com/user-attachments/assets/005be624-877b-4da9-a9af-dcd4b08fefe2)
 ![image](https://github.com/user-attachments/assets/38036080-13fd-4d6f-bf47-e09b0263c8a0)
 
-*OBSERVATION: Electronics, Computer&Accessories and Home&Kitchen products had the highest discount percentages. The discounts offered on these products is directly proportional to the number of reviews received and the total sales made. It can therefore be deduced that high discounts drive increased sales*
+*OBSERVATION: Electronics, Computer&Accessories and Home&Kitchen products had the highest discount percentages. The discounts offered on these products is directly proportional to the number of reviews received and the total sales made. It can therefore be deduced that high discounts drove increased sales for these products*
 
 
 # Question 8 : To Analyze The Distribution of Product Rating
@@ -97,6 +97,8 @@
 
 ![image](https://github.com/user-attachments/assets/0f5a8876-4ff7-4dfd-ab11-dda31ce06b87)
 ![image](https://github.com/user-attachments/assets/26322f65-d4b5-48b7-aa26-3b65a5e99900)
+
+*OBSERVATION: The average rating across all products hovers between 4.00 to 4.17 irrespective of the level of discount offered. There may be a need to isolate the rating across products to identify products whose sales may not be influenced positively by discount sales and isolate them from special marketing offers*
 
 
 # Question 12 : To Analyze Products With Less Then 1000 Reviews
