@@ -90,7 +90,7 @@
 ![image](https://github.com/user-attachments/assets/314a2837-1946-46a5-8b5f-00240ad2ac7c)
 
 
-*OBSERVATION:
+*OBSERVATION:The Amazon Store can be termed a luxury retailer or high-end store as 42% of their products cost above $2,000 and 86% of their products costs above $500. Therefore, it will be more beneficial to focus marketing efforts on High-Net-Worth Individuals and Prime promoters of companies in building the clientele base of the store*
 
 # Question 11 : To Analyze The Relationship Between Rating and Discounts and Number of Products that fall into each Discount Range
 ![image](https://github.com/user-attachments/assets/2d52c4d5-6d34-4f8f-91b9-61e28a85989c)
